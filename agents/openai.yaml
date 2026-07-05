@@ -1,0 +1,7 @@
+interface:
+  display_name: "吊凯子 Skills"
+  short_description: "女生向恋爱筛选、撩拨、立框架与付出引导策略"
+  default_prompt: "Use $diao-kaizi-skills to help me analyze a male target and craft a high-EQ dating strategy."
+
+policy:
+  allow_implicit_invocation: true
