@@ -115,3 +115,13 @@ $diao-kaizi-skills 帮我分析这个男生值不值得继续聊，下一句怎�
 ## 设计来源
 
 该 Skill 面向女生视角：先筛选对象，再建设吸引；先爱自己，再谈策略；嘴上可以甜，行为必须有框架。
+
+<!-- aiyou-contact:start -->
+
+## 联系作者 / Contact
+
+扫码添加作者微信，交流使用体验与项目合作。
+
+<img src="docs/assets/wechat-contact.jpg" alt="Glimmer · 光波的个人微信二维码" width="280" />
+
+<!-- aiyou-contact:end -->
